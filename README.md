@@ -9,15 +9,16 @@ This project automates the login functionality of the **Janitri Dashboard** as p
 LoginAutomation/
 │
 ├── src/
-│ ├── main/
-│ │ └── java/com/janitri/qa/pages/LoginPage.java
-│ └── test/
-│ ├── java/com/janitri/qa/base/BaseTest.java
-│ └── java/com/janitri/qa/tests/LoginTest.java
+│   ├── main/
+│   │   └── java/com/janitri/qa/pages/LoginPage.java
+│   └── test/
+│       ├── java/com/janitri/qa/base/BaseTest.java
+│       └── java/com/janitri/qa/tests/LoginTest.java
 │
 ├── pom.xml
 ├── testng.xml
 ├── Janitri_Login_TestCases.xlsx ✅
+
 
 ---
 
@@ -58,6 +59,8 @@ LoginAutomation/
    git clone https://github.com/PuneethKaleyanda/LoginAutomation.git
    cd LoginAutomation
    Install dependencies:
+
+   
 
 2. **Install dependencies:**
 mvn clean install
